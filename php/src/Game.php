@@ -7,7 +7,7 @@ class Game
     private array $players;
     private array $places;
     private array $purses;
-    private array $inPenaltyBox;
+    public array $inPenaltyBox;
 
     private array $popQuestions;
     private array $scienceQuestions;
